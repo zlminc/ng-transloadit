@@ -1,0 +1,19 @@
+{
+  "name": "ng-transloadit",
+  "version": "1.0.0",
+  "description": "A service for uploading to transloadit.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkb2k/ng-transloadit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkb2k/ng-transloadit/issues"
+  },
+  "homepage": "https://github.com/lkb2k/ng-transloadit#readme"
+}
