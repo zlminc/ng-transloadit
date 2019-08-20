@@ -1,6 +1,6 @@
 {
   "name": "ng-transloadit",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A service for uploading to transloadit.com",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lkb2k/ng-transloadit.git"
+    "url": "git+https://github.com/zlminc/ng-transloadit.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lkb2k/ng-transloadit/issues"
+    "url": "https://github.com/zlminc/ng-transloadit/issues"
   },
-  "homepage": "https://github.com/lkb2k/ng-transloadit#readme"
+  "homepage": "https://github.com/zlminc/ng-transloadit#readme"
 }
